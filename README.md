@@ -1,6 +1,6 @@
  <div style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=sugita-seiya&count_private=true&show_icons=true&theme=react" height="140px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugita-seiya&langs_count=3&theme=react&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugita-seiya&langs_count=3&theme=react&count_private=true&layout=compact&exclude_repo=recruit-php-04-sugita-seiya,CrenLara,laravel_login,lunchmap,lemp_environment ,laradock,docker-laravel-handson,calender,contact_form,myblog,bingo_php,calender_php">
  </div>
 
 
